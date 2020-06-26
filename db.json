@@ -1,9 +1,11 @@
 {
-  "calculateMortgage": {
-    "loanAmount": 250000,
-    "investmentAmount": 250000,
-    "interestRate": 2,
-    "repaymentYears": 30,
-    "installmentMonthly": 800
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
